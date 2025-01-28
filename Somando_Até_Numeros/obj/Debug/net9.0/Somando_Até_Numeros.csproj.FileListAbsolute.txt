@@ -1,0 +1,14 @@
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\Somando_Até_Numeros\bin\Debug\net9.0\Somando_Até_Numeros.exe
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\Somando_Até_Numeros\bin\Debug\net9.0\Somando_Até_Numeros.deps.json
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\Somando_Até_Numeros\bin\Debug\net9.0\Somando_Até_Numeros.runtimeconfig.json
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\Somando_Até_Numeros\bin\Debug\net9.0\Somando_Até_Numeros.dll
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\Somando_Até_Numeros\bin\Debug\net9.0\Somando_Até_Numeros.pdb
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\Somando_Até_Numeros\obj\Debug\net9.0\Somando_Até_Numeros.GeneratedMSBuildEditorConfig.editorconfig
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\Somando_Até_Numeros\obj\Debug\net9.0\Somando_Até_Numeros.AssemblyInfoInputs.cache
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\Somando_Até_Numeros\obj\Debug\net9.0\Somando_Até_Numeros.AssemblyInfo.cs
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\Somando_Até_Numeros\obj\Debug\net9.0\Somando_Até_Numeros.csproj.CoreCompileInputs.cache
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\Somando_Até_Numeros\obj\Debug\net9.0\Somando_Até_Numeros.dll
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\Somando_Até_Numeros\obj\Debug\net9.0\refint\Somando_Até_Numeros.dll
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\Somando_Até_Numeros\obj\Debug\net9.0\Somando_Até_Numeros.pdb
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\Somando_Até_Numeros\obj\Debug\net9.0\Somando_Até_Numeros.genruntimeconfig.cache
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\Somando_Até_Numeros\obj\Debug\net9.0\ref\Somando_Até_Numeros.dll
