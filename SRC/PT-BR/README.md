@@ -41,9 +41,9 @@ This is a simple project in C# where **SumBot** helps the user calculate the sum
 ## Exemplo de Execução / Example of Execution
 
 ```bash
-SumBot: Olá! É um prazer conhecê-lo!
+SumBot: Olá! É um prazer conhecê lo!
 SumBot: Minha função é calcular a soma de todos os números inteiros de 1 até o número que você digitar.
-SumBot: Exemplo: você diz 5, e eu vou somar (1+2+3+4+5 = 15). Pronto?
+SumBot: Exemplo Voce diz 5 eu vou soma (1+2+3+4+5 = 15). Pronto?
 SumBot: Pode dizer!
 5
-SumBot: Pronto! O resultado foi 15. A soma ficou assim: + 1 + 2 + 3 + 4 + 5. Tchau!
+SumBot: Pronto! Resultando = 15 A soma ficou assim + 1,+ 2,+ 3,+ 4,+ 5 Tchau!

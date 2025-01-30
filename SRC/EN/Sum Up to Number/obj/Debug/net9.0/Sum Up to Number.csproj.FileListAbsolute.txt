@@ -1,0 +1,15 @@
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\SRC\EN\Sum Up to Number\bin\Debug\net9.0\Sum Up to Number.exe
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\SRC\EN\Sum Up to Number\bin\Debug\net9.0\Sum Up to Number.deps.json
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\SRC\EN\Sum Up to Number\bin\Debug\net9.0\Sum Up to Number.runtimeconfig.json
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\SRC\EN\Sum Up to Number\bin\Debug\net9.0\Sum Up to Number.dll
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\SRC\EN\Sum Up to Number\bin\Debug\net9.0\Sum Up to Number.pdb
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\SRC\EN\Sum Up to Number\obj\Debug\net9.0\Sum Up to Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\SRC\EN\Sum Up to Number\obj\Debug\net9.0\Sum Up to Number.AssemblyInfoInputs.cache
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\SRC\EN\Sum Up to Number\obj\Debug\net9.0\Sum Up to Number.AssemblyInfo.cs
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\SRC\EN\Sum Up to Number\obj\Debug\net9.0\Sum Up to Number.csproj.CoreCompileInputs.cache
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\SRC\EN\Sum Up to Number\obj\Debug\net9.0\Sum Up to Number.sourcelink.json
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\SRC\EN\Sum Up to Number\obj\Debug\net9.0\Sum Up to Number.dll
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\SRC\EN\Sum Up to Number\obj\Debug\net9.0\refint\Sum Up to Number.dll
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\SRC\EN\Sum Up to Number\obj\Debug\net9.0\Sum Up to Number.pdb
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\SRC\EN\Sum Up to Number\obj\Debug\net9.0\Sum Up to Number.genruntimeconfig.cache
+E:\Area do cloves\VS CODE\VS CODE PROJECTS\Soma Até Numero\SRC\EN\Sum Up to Number\obj\Debug\net9.0\ref\Sum Up to Number.dll
