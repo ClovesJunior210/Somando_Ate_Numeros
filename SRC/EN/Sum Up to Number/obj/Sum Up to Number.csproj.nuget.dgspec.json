@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Area do cloves\\VS CODE\\VS CODE PROJECTS\\Soma Até Numero\\Somando_Até_Numeros\\Somando_Até_Numeros.csproj": {}
+    "E:\\Area do cloves\\VS CODE\\VS CODE PROJECTS\\Soma Até Numero\\SRC\\EN\\Sum Up to Number\\Sum Up to Number.csproj": {}
   },
   "projects": {
-    "E:\\Area do cloves\\VS CODE\\VS CODE PROJECTS\\Soma Até Numero\\Somando_Até_Numeros\\Somando_Até_Numeros.csproj": {
+    "E:\\Area do cloves\\VS CODE\\VS CODE PROJECTS\\Soma Até Numero\\SRC\\EN\\Sum Up to Number\\Sum Up to Number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Area do cloves\\VS CODE\\VS CODE PROJECTS\\Soma Até Numero\\Somando_Até_Numeros\\Somando_Até_Numeros.csproj",
-        "projectName": "Somando_Até_Numeros",
-        "projectPath": "E:\\Area do cloves\\VS CODE\\VS CODE PROJECTS\\Soma Até Numero\\Somando_Até_Numeros\\Somando_Até_Numeros.csproj",
+        "projectUniqueName": "E:\\Area do cloves\\VS CODE\\VS CODE PROJECTS\\Soma Até Numero\\SRC\\EN\\Sum Up to Number\\Sum Up to Number.csproj",
+        "projectName": "Sum Up to Number",
+        "projectPath": "E:\\Area do cloves\\VS CODE\\VS CODE PROJECTS\\Soma Até Numero\\SRC\\EN\\Sum Up to Number\\Sum Up to Number.csproj",
         "packagesPath": "C:\\Users\\clove\\.nuget\\packages\\",
-        "outputPath": "E:\\Area do cloves\\VS CODE\\VS CODE PROJECTS\\Soma Até Numero\\Somando_Até_Numeros\\obj\\",
+        "outputPath": "E:\\Area do cloves\\VS CODE\\VS CODE PROJECTS\\Soma Até Numero\\SRC\\EN\\Sum Up to Number\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\clove\\AppData\\Roaming\\NuGet\\NuGet.Config"

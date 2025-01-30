@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Somando_Até_Numeros", "Somando_Até_Numeros\Somando_Até_Numeros.csproj", "{E1CBEF08-D002-4DE2-B64B-EC4A77DF44CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Up to Number", "..\EN\Sum Up to Number\Sum Up to Number.csproj", "{A23BF6C6-7373-4450-BB9C-38218B68AB8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{E1CBEF08-D002-4DE2-B64B-EC4A77DF44CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1CBEF08-D002-4DE2-B64B-EC4A77DF44CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1CBEF08-D002-4DE2-B64B-EC4A77DF44CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23BF6C6-7373-4450-BB9C-38218B68AB8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23BF6C6-7373-4450-BB9C-38218B68AB8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23BF6C6-7373-4450-BB9C-38218B68AB8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23BF6C6-7373-4450-BB9C-38218B68AB8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
